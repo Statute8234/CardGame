@@ -1,13 +1,9 @@
 # CardGame
-
-[![Static Badge](https://img.shields.io/badge/pygame-cyan)](https://www.pygame.org/docs/)
-[![Static Badge](https://img.shields.io/badge/numpy-magenta)](https://numpy.org/)
-[![Static Badge](https://img.shields.io/badge/random-magenta)](https://docs.python.org/3/library/random.html)
-[![Static Badge](https://img.shields.io/badge/sys-gray)](https://docs.python.org/3/library/sys.html)
-[![Static Badge](https://img.shields.io/badge/time-teal)](https://docs.python.org/3/library/math.html)
-
-
 The code initializes Pygame, sets display dimensions, defines functions for color blending and randomization, initializes food and bot groups, handles events, updates, draws sprites, and handles bot reproduction. 
+
+[![Static Badge](https://img.shields.io/badge/pygame-olive)](https://pypi.org/project/pygame/)
+[![Static Badge](https://img.shields.io/badge/numpy-magenta)](https://pypi.org/project/numpy/)
+[![Static Badge](https://img.shields.io/badge/random,-gray)](https://pypi.org/project/random,/)
 
 # Table of Contents
 
